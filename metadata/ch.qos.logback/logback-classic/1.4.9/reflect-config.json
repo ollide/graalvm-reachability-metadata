@@ -507,6 +507,12 @@
         "parameterTypes": []
       },
       {
+        "name": "setCharset",
+        "parameterTypes": [
+          "java.nio.charset.Charset"
+        ]
+      },
+      {
         "name": "setLayout",
         "parameterTypes": [
           "ch.qos.logback.core.Layout"
